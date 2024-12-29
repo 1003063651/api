@@ -7,9 +7,7 @@ Koyuki
 
 body{
 	background-image:url(https://cdn.jsdelivr.net/gh/1003063651/api@refs/heads/main/115997413_p6.png');//将此处替换为你自己的背景图api地址
-	background-repeat:no-repeat;
-	background-size:cover;
-	background-attachment: fixed;
+
 }
 
 	@keyframes gradientBG {
